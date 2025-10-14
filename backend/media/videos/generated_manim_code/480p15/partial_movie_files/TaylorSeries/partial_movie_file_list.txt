@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/TaylorSeries/1185818338_1716101527_223132457.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/TaylorSeries/624642324_2846341498_63391865.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/TaylorSeries/624642324_2457418520_2955882489.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/TaylorSeries/624642324_4071516364_592807361.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/TaylorSeries/624642324_1463798943_2901776753.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/TaylorSeries/624642324_4071516364_3447773960.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/TaylorSeries/624642324_407604333_1725587029.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/TaylorSeries/624642324_4247107814_642052591.mp4'

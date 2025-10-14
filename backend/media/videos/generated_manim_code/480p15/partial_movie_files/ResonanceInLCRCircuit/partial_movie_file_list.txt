@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/ResonanceInLCRCircuit/1185818338_3052553836_223132457.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/ResonanceInLCRCircuit/624642324_2454979231_3766327872.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/ResonanceInLCRCircuit/624642324_451721158_363249859.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/ResonanceInLCRCircuit/624642324_1135043780_54405904.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/ResonanceInLCRCircuit/624642324_4247107814_323771537.mp4'

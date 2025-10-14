@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Voicemation</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>🎬 Voicemation</h1>
+
+  <!-- Record button -->
+  <button id="recordBtn">🎤 Record & Generate Animation</button>
+
+  <!-- Text input section -->
+  <div style="margin: 20px 0;">
+    <h3>Or enter text directly:</h3>
+    <input type="text" id="textInput" placeholder="Enter your animation description..." style="width: 400px; padding: 8px;">
+    <button id="textBtn">📝 Generate Animation from Text</button>
+  </div>
+
+  <p id="status"></p>
+
+  <!-- Video output -->
+  <video id="outputVideo" controls style="display:none; width:600px;"></video>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

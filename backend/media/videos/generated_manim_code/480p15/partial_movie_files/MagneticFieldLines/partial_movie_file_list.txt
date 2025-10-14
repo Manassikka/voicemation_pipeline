@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/MagneticFieldLines/1185818338_1008324661_223132457.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/MagneticFieldLines/624642324_2341082278_2274185915.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/MagneticFieldLines/624642324_2552400616_1208569226.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/MagneticFieldLines/624642324_4247107814_2230635580.mp4'

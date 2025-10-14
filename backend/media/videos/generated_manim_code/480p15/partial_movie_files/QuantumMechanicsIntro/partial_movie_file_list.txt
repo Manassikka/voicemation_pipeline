@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/QuantumMechanicsIntro/1185818338_3050895170_223132457.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/QuantumMechanicsIntro/624642324_380865100_2926201575.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/QuantumMechanicsIntro/624642324_4071516364_807380194.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/QuantumMechanicsIntro/624642324_3450238717_2204001038.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/QuantumMechanicsIntro/624642324_4071516364_529816751.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/QuantumMechanicsIntro/624642324_3091549834_3637831316.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/QuantumMechanicsIntro/624642324_4247107814_453258087.mp4'

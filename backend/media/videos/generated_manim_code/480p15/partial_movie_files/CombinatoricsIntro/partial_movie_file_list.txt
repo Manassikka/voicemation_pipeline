@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/CombinatoricsIntro/1185818338_775934254_223132457.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/CombinatoricsIntro/624642324_2341082278_1414637630.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/CombinatoricsIntro/624642324_2018847192_3415516415.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/CombinatoricsIntro/624642324_2341082278_145889380.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/CombinatoricsIntro/624642324_1796773463_3429652026.mp4'
+file 'file:/Users/manavmaharishi/Downloads/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/CombinatoricsIntro/624642324_4247107814_361892634.mp4'

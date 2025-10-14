@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Files/Voicemation/Voicemation/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/LogisticRegressionCurveFitting/1185818338_60844617_223132457.mp4'
+file 'file:D:/Files/Voicemation/Voicemation/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/LogisticRegressionCurveFitting/624642324_3782766363_4151336633.mp4'
+file 'file:D:/Files/Voicemation/Voicemation/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/LogisticRegressionCurveFitting/624642324_1959358871_2312544501.mp4'
+file 'file:D:/Files/Voicemation/Voicemation/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/LogisticRegressionCurveFitting/624642324_91941702_1245153465.mp4'
+file 'file:D:/Files/Voicemation/Voicemation/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/LogisticRegressionCurveFitting/624642324_468068901_1200938502.mp4'
+file 'file:D:/Files/Voicemation/Voicemation/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/LogisticRegressionCurveFitting/624642324_3122781595_1504717557.mp4'
+file 'file:D:/Files/Voicemation/Voicemation/voicemation_pipeline/media/videos/generated_manim_code/480p15/partial_movie_files/LogisticRegressionCurveFitting/624642324_2354374403_3027777671.mp4'
